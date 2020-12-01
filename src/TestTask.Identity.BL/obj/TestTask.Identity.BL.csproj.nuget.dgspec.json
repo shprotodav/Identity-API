@@ -1,0 +1,242 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Vlad\\Programming\\TestTask1\\TestTask\\TestTask.Identity\\src\\TestTask.Identity.BL\\TestTask.Identity.BL.csproj": {}
+  },
+  "projects": {
+    "C:\\Vlad\\Programming\\TestTask1\\TestTask\\TestTask.Identity\\src\\TestTask.Identity.BL\\TestTask.Identity.BL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Vlad\\Programming\\TestTask1\\TestTask\\TestTask.Identity\\src\\TestTask.Identity.BL\\TestTask.Identity.BL.csproj",
+        "projectName": "TestTask.Identity.BL",
+        "projectPath": "C:\\Vlad\\Programming\\TestTask1\\TestTask\\TestTask.Identity\\src\\TestTask.Identity.BL\\TestTask.Identity.BL.csproj",
+        "packagesPath": "C:\\Users\\Vladyslav\\.nuget\\packages\\",
+        "outputPath": "C:\\Vlad\\Programming\\TestTask1\\TestTask\\TestTask.Identity\\src\\TestTask.Identity.BL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Vladyslav\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Vlad\\Programming\\TestTask1\\TestTask\\TestTask.Identity\\src\\TestTask.Identity.Common\\TestTask.Identity.Common.csproj": {
+                "projectPath": "C:\\Vlad\\Programming\\TestTask1\\TestTask\\TestTask.Identity\\src\\TestTask.Identity.Common\\TestTask.Identity.Common.csproj"
+              },
+              "C:\\Vlad\\Programming\\TestTask1\\TestTask\\TestTask.Identity\\src\\TestTask.Identity.DAL\\TestTask.Identity.DAL.csproj": {
+                "projectPath": "C:\\Vlad\\Programming\\TestTask1\\TestTask\\TestTask.Identity\\src\\TestTask.Identity.DAL\\TestTask.Identity.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[5.6.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[5.6.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Vlad\\Programming\\TestTask1\\TestTask\\TestTask.Identity\\src\\TestTask.Identity.Common\\TestTask.Identity.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Vlad\\Programming\\TestTask1\\TestTask\\TestTask.Identity\\src\\TestTask.Identity.Common\\TestTask.Identity.Common.csproj",
+        "projectName": "TestTask.Identity.Common",
+        "projectPath": "C:\\Vlad\\Programming\\TestTask1\\TestTask\\TestTask.Identity\\src\\TestTask.Identity.Common\\TestTask.Identity.Common.csproj",
+        "packagesPath": "C:\\Users\\Vladyslav\\.nuget\\packages\\",
+        "outputPath": "C:\\Vlad\\Programming\\TestTask1\\TestTask\\TestTask.Identity\\src\\TestTask.Identity.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Vladyslav\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Vlad\\Programming\\TestTask1\\TestTask\\TestTask.Identity\\src\\TestTask.Identity.DAL\\TestTask.Identity.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Vlad\\Programming\\TestTask1\\TestTask\\TestTask.Identity\\src\\TestTask.Identity.DAL\\TestTask.Identity.DAL.csproj",
+        "projectName": "TestTask.Identity.DAL",
+        "projectPath": "C:\\Vlad\\Programming\\TestTask1\\TestTask\\TestTask.Identity\\src\\TestTask.Identity.DAL\\TestTask.Identity.DAL.csproj",
+        "packagesPath": "C:\\Users\\Vladyslav\\.nuget\\packages\\",
+        "outputPath": "C:\\Vlad\\Programming\\TestTask1\\TestTask\\TestTask.Identity\\src\\TestTask.Identity.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Vladyslav\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Vlad\\Programming\\TestTask1\\TestTask\\TestTask.Identity\\src\\TestTask.Identity.Common\\TestTask.Identity.Common.csproj": {
+                "projectPath": "C:\\Vlad\\Programming\\TestTask1\\TestTask\\TestTask.Identity\\src\\TestTask.Identity.Common\\TestTask.Identity.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

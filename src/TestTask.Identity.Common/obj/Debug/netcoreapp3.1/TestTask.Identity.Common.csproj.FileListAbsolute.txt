@@ -1,0 +1,9 @@
+C:\Vlad\Programming\TestTask1\TestTask\TestTask.Identity\src\TestTask.Identity.Common\bin\Debug\netcoreapp3.1\TestTask.Identity.Common.deps.json
+C:\Vlad\Programming\TestTask1\TestTask\TestTask.Identity\src\TestTask.Identity.Common\bin\Debug\netcoreapp3.1\TestTask.Identity.Common.dll
+C:\Vlad\Programming\TestTask1\TestTask\TestTask.Identity\src\TestTask.Identity.Common\bin\Debug\netcoreapp3.1\TestTask.Identity.Common.pdb
+C:\Vlad\Programming\TestTask1\TestTask\TestTask.Identity\src\TestTask.Identity.Common\obj\Debug\netcoreapp3.1\TestTask.Identity.Common.csprojAssemblyReference.cache
+C:\Vlad\Programming\TestTask1\TestTask\TestTask.Identity\src\TestTask.Identity.Common\obj\Debug\netcoreapp3.1\TestTask.Identity.Common.AssemblyInfoInputs.cache
+C:\Vlad\Programming\TestTask1\TestTask\TestTask.Identity\src\TestTask.Identity.Common\obj\Debug\netcoreapp3.1\TestTask.Identity.Common.AssemblyInfo.cs
+C:\Vlad\Programming\TestTask1\TestTask\TestTask.Identity\src\TestTask.Identity.Common\obj\Debug\netcoreapp3.1\TestTask.Identity.Common.csproj.CoreCompileInputs.cache
+C:\Vlad\Programming\TestTask1\TestTask\TestTask.Identity\src\TestTask.Identity.Common\obj\Debug\netcoreapp3.1\TestTask.Identity.Common.dll
+C:\Vlad\Programming\TestTask1\TestTask\TestTask.Identity\src\TestTask.Identity.Common\obj\Debug\netcoreapp3.1\TestTask.Identity.Common.pdb

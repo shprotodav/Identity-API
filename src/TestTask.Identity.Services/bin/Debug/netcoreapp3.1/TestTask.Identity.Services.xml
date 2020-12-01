@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TestTask.Identity.Services</name>
+    </assembly>
+    <members>
+        <member name="T:TestTask.Identity.Services.Controllers.AccountController">
+            <summary>
+            Main controller.
+            Contains requests to authorization of users
+            </summary>
+        </member>
+        <member name="M:TestTask.Identity.Services.Controllers.AccountController.Register(TestTask.Identity.BL.DTOs.UserForRegisterDTO)">
+            <summary>
+            Registers a new user
+            </summary>
+        </member>
+        <member name="M:TestTask.Identity.Services.Controllers.AccountController.Login(TestTask.Identity.BL.DTOs.UserForLoginDTO)">
+            <summary>
+            User login request
+            </summary>
+            <remarks>
+            Use the token from this response to authorization at Transaction API
+            </remarks>
+        </member>
+        <member name="M:TestTask.Identity.Services.Controllers.AccountController.ValidateToken(System.String)">
+            <summary>
+            Checks if a token is valid
+            </summary>
+            <remarks>
+            Used to allow execution of requests from Transaction API
+            </remarks>
+        </member>
+    </members>
+</doc>

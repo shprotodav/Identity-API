@@ -1,0 +1,17 @@
+C:\Vlad\Programming\TestTask1\TestTask\TestTask.Identity\src\TestTask.Identity.DB.Schema\bin\Debug\netcoreapp3.1\TestTask.Identity.DB.Schema.deps.json
+C:\Vlad\Programming\TestTask1\TestTask\TestTask.Identity\src\TestTask.Identity.DB.Schema\bin\Debug\netcoreapp3.1\TestTask.Identity.DB.Schema.runtimeconfig.json
+C:\Vlad\Programming\TestTask1\TestTask\TestTask.Identity\src\TestTask.Identity.DB.Schema\bin\Debug\netcoreapp3.1\TestTask.Identity.DB.Schema.runtimeconfig.dev.json
+C:\Vlad\Programming\TestTask1\TestTask\TestTask.Identity\src\TestTask.Identity.DB.Schema\bin\Debug\netcoreapp3.1\TestTask.Identity.DB.Schema.dll
+C:\Vlad\Programming\TestTask1\TestTask\TestTask.Identity\src\TestTask.Identity.DB.Schema\bin\Debug\netcoreapp3.1\TestTask.Identity.DB.Schema.pdb
+C:\Vlad\Programming\TestTask1\TestTask\TestTask.Identity\src\TestTask.Identity.DB.Schema\bin\Debug\netcoreapp3.1\TestTask.Identity.Common.dll
+C:\Vlad\Programming\TestTask1\TestTask\TestTask.Identity\src\TestTask.Identity.DB.Schema\bin\Debug\netcoreapp3.1\TestTask.Identity.DAL.dll
+C:\Vlad\Programming\TestTask1\TestTask\TestTask.Identity\src\TestTask.Identity.DB.Schema\bin\Debug\netcoreapp3.1\TestTask.Identity.Common.pdb
+C:\Vlad\Programming\TestTask1\TestTask\TestTask.Identity\src\TestTask.Identity.DB.Schema\bin\Debug\netcoreapp3.1\TestTask.Identity.DAL.pdb
+C:\Vlad\Programming\TestTask1\TestTask\TestTask.Identity\src\TestTask.Identity.DB.Schema\obj\Debug\netcoreapp3.1\TestTask.Identity.DB.Schema.csprojAssemblyReference.cache
+C:\Vlad\Programming\TestTask1\TestTask\TestTask.Identity\src\TestTask.Identity.DB.Schema\obj\Debug\netcoreapp3.1\TestTask.Identity.DB.Schema.AssemblyInfoInputs.cache
+C:\Vlad\Programming\TestTask1\TestTask\TestTask.Identity\src\TestTask.Identity.DB.Schema\obj\Debug\netcoreapp3.1\TestTask.Identity.DB.Schema.AssemblyInfo.cs
+C:\Vlad\Programming\TestTask1\TestTask\TestTask.Identity\src\TestTask.Identity.DB.Schema\obj\Debug\netcoreapp3.1\TestTask.Identity.DB.Schema.csproj.CoreCompileInputs.cache
+C:\Vlad\Programming\TestTask1\TestTask\TestTask.Identity\src\TestTask.Identity.DB.Schema\obj\Debug\netcoreapp3.1\TestTask.Identity.DB.Schema.csproj.CopyComplete
+C:\Vlad\Programming\TestTask1\TestTask\TestTask.Identity\src\TestTask.Identity.DB.Schema\obj\Debug\netcoreapp3.1\TestTask.Identity.DB.Schema.dll
+C:\Vlad\Programming\TestTask1\TestTask\TestTask.Identity\src\TestTask.Identity.DB.Schema\obj\Debug\netcoreapp3.1\TestTask.Identity.DB.Schema.pdb
+C:\Vlad\Programming\TestTask1\TestTask\TestTask.Identity\src\TestTask.Identity.DB.Schema\obj\Debug\netcoreapp3.1\TestTask.Identity.DB.Schema.genruntimeconfig.cache
