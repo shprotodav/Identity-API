@@ -38,7 +38,7 @@ namespace TestTask.Identity.Services.Controllers
         /// User login request
         /// </summary>
         /// <remarks>
-        /// Use the token from this response to authorization at Transaction API
+        /// Use the token from this response to authorize at Transaction API
         /// </remarks>
         [Route("Login")]
         [HttpPost]
@@ -62,13 +62,6 @@ namespace TestTask.Identity.Services.Controllers
             await _jwtTokenService.ValidateToken(token);
 
             return Ok();
-        }
-
-        [Route("IsAuthenticated")]
-        [HttpGet]
-        public IActionResult IsAuthenticated()
-        {
-            return new ObjectResult(new { isAuthenticated = User.Identity.IsAuthenticated });
         }
     }
 }
