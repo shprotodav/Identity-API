@@ -17,4 +17,4 @@ To testing of this project in conjunction with project Transaction-API:
 
 Now you can execute any necessary request from the provided list.
 
-For easy testing of the project, you can first populate the database with values. To do this, it is recommended to use the 'Merge' request in the current project with the 'data.csv' file passed to it. This file is located at the root of the Transaction-API repository.
+For easy testing of the project, you can first populate the database with values. To do this, it is recommended to use the 'Merge' request in the Transaction-API project with the 'data.csv' file passed to it. This file is located at the root of the Transaction-API repository.
